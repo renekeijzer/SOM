@@ -1,0 +1,8 @@
+
+@squid:UselessImportCheck"Remove this duplicated import.(ÅÑ¦¾
+tsquid:S1450"ZRemove the "startRadius" field and declare it as a local variable in the relevant methods.(±òı¬øÿÿÿÿ
+>squid:S1068")Remove this unused "error" private field.(Ìõú
+vsquid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "newWeight".(µÙÍ
+ssquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ˆ¢ãî
+msquid:S1450"XRemove the "startRate" field and declare it as a local variable in the relevant methods.(İ³Úå
+Isquid:S1066"/Merge this if statement with the enclosing one.(·ÑãÏûÿÿÿÿ

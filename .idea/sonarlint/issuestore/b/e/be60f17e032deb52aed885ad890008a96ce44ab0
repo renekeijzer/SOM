@@ -1,0 +1,6 @@
+
+Zsquid:S2184"ECast one of the operands of this subtraction operation to a "double".(‰ö·×
+Wsquid:HiddenFieldCheck"8Rename "size" which hides the field declared at line 16.(æúÜ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Çá¾«
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èî¸Íýÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÿƒŒÂùÿÿÿÿ

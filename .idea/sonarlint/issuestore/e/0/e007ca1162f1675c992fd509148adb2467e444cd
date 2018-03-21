@@ -1,0 +1,9 @@
+
+jsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ãÏÆ´ùÿÿÿÿ
+Psquid:S3518";Make sure "count" can't be zero before doing this division.(èø†
+Usquid:S3518";Make sure "count" can't be zero before doing this division.(Ÿµ’Óûÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ç¤û 
+[squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÙœªT
+xsquid:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ĞÈ¾
+xsquid:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(îùÖ³
